@@ -46,7 +46,7 @@ This front-end application is built with Vite, React, and Typescript.
 
 The project includes an `.env` file where you can configure the API URL:
 
-- `VITE_APP_API_URL`: The URL for the Laravel API (e.g., `http://[0.0.0.0:80](http://localhost/)`).
+- `VITE_APP_API_URL`: The URL for the Laravel API (e.g., `http://localhost`).
 
 - Or in the `config.ts` file you can hardcode the URL
 
